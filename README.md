@@ -7,5 +7,5 @@ Reproduce steps:
 ```
 git clone https://github.com/nlepage/gqlgen-issue-1961
 cd gqlgen-issue-1961/gqlgen-todos
-go run github.com/99designs/gqlgen init
+go run github.com/99designs/gqlgen --verbose init
 ```
